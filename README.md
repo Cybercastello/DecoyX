@@ -4,6 +4,12 @@ A lightweight honeypot that monitors and logs unauthorized access attempts on mu
 
 
 ✅ Listens on common attack ports (FTP, SSH, Telnet, HTTP, RDP, etc.)
+
+
 ✅ Logs attacker IPs and timestamps in an SQLite database
+
+
 ✅ Sends instant alerts to Discord Webhooks and Telegram
+
+
 ✅ Simulates fake services to trick attackers
